@@ -8,8 +8,9 @@ Linux Mint es un sistema operativo de computadora diseñado para trabajar en la 
 ## Paso 1 
 
 
-- Decargar el programa [VirtualBox](https://www.virtualbox.org/wiki/Downloads) para poder montar el Sistema Operativo [LinuxMint](https://linuxmint.com/download.php) y trabajar de manera eficiente 
-Luego de instalar y ejecutar los programas hay que crear una nueva maquina virtual dentro de VirtualBox 
+- Decargar el programa [VirtualBox](https://www.virtualbox.org/wiki/Downloads) para poder montar el Sistema Operativo [LinuxMint](https://linuxmint.com/download.php) y trabajar de manera eficiente.
+
+- Luego de instalar y ejecutar los programas hay que crear una nueva maquina virtual dentro de VirtualBox 
 ![Paso 1](Img/Inicio%20Paso%201.jpeg)
 
 
