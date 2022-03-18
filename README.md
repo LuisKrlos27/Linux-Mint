@@ -56,5 +56,5 @@ Ya acabada la instalacion del sistema operativo procedemos a nombrar nuestro equ
 
 y este seria el ultimo paso con la instalcion ya terminado 
 
-![](img/Instalado.jpeg)
+![Paso 8](img/Instalado.jpeg)
 
