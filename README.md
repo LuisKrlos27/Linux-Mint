@@ -39,7 +39,7 @@ aqui podemos observar cada configuracion anterior que hemos realizado y procedem
 ## Paso 6
 
 - Ya ejecutando el archivo iso dentro de la interfaz de la maquina virtual se selecciona el idioma de preferencia tanto del escritorio como del teclado para proceder a elegir el tipo de particiones en el disco 
-![Paso 6](Img/Username%20paso%207.jpeg)
+![Paso 6](Img/Particiones%20pas0%206.jpeg)
 
 ## Paso 7 
 
