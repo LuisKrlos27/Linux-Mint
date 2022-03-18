@@ -26,7 +26,7 @@ el tamaño en memoria depende del equipo en cual estas instalando el SO entre ma
 
 En este paso hay que crear un disco duro virtual para archivar los datos de la maquina virtual, en este caso utilizare 30GB de mi disco duro para crear un disco dentro de la maquina virtual.
 
-![Paso 3](Img/Tama%C3%B1o%20en%20disco%20duro.jpeg) 
+![Tamaño en disco](Img/Tama%C3%B1o%20en%20disco%20duro.jpeg) 
 
 ## Paso 4
 
@@ -52,7 +52,7 @@ Ya ejecutando el archivo iso dentro de la interfaz de la maquina virtual se sele
 
 Ya acabada la instalacion del sistema operativo procedemos a nombrar nuestro equipo, username y contraseña 
 
-![Paso 7](Img/Username%20paso%207.jpeg)
+![Username paso 7](Img/Username%20paso%207.jpeg)
 
 y este seria el ultimo paso con la instalcion ya terminado 
 
