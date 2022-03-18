@@ -34,7 +34,14 @@ Al finalizar el paso 3 donde se configura el espacio en disco duro ya se ha real
 
 ![Paso 4](img/Interfaz%20pas%203.jpeg) 
 
-aqui podemos observar cada configuracion anterior que hemos realizado 
+aqui podemos observar cada configuracion anterior que hemos realizado y procedemos a seleccionar el apartado de __Almacenamiento__ para poder cargar el archivo iso de LinuxMint el cual es el sistema operativo
+
+## Paso 5
+
+una vez ya cargado el archivo iso se inicia la maquina virtual para proceder a instalar el LinxMint 
+
+![Paso 5](img/Escritorio%20paso%205.jpeg)
+
 
 
 
