@@ -10,7 +10,7 @@ Linux Mint es un sistema operativo de computadora diseñado para trabajar en la 
 
 - Decargar el programa [VirtualBox](https://www.virtualbox.org/wiki/Downloads) para poder montar el Sistema Operativo [LinuxMint](https://linuxmint.com/download.php) y trabajar de manera eficiente 
 Luego de instalar y ejecutar los programas hay que crear una nueva maquina virtual dentro de VirtualBox 
-![Paso 1](img/Inicio%20Paso%201.jpeg)
+ ![Paso 1](img/Inicio%20Paso%201.jpeg)
 
 
 ## Paso 2
@@ -22,7 +22,7 @@ Luego de instalar y ejecutar los programas hay que crear una nueva maquina virtu
 ## Paso 3
 
 - En este paso hay que crear un disco duro virtual para archivar los datos de la maquina virtual, en este caso utilizare 30GB de mi disco duro para crear un disco dentro de la maquina virtual.
-![Tamaño en disco](Img/Tama%C3%B1o%20en%20disco%20duro.jpeg) 
+ ![Tamaño en disco](Img/Tama%C3%B1o%20en%20disco%20duro.jpeg) 
 
 ## Paso 4
 
@@ -33,12 +33,12 @@ aqui podemos observar cada configuracion anterior que hemos realizado y procedem
 ## Paso 5
 
 - Una vez ya cargado el archivo iso se inicia la maquina virtual para proceder a instalar el LinxMint 
-![Paso 5](img/Escritorio%20paso%205.jpeg)
+ ![Paso 5](img/Escritorio%20paso%205.jpeg)
 
 ## Paso 6
 
 - Ya ejecutando el archivo iso dentro de la interfaz de la maquina virtual se selecciona el idioma de preferencia tanto del escritorio como del teclado para proceder a elegir el tipo de particiones en el disco 
-![Paso 6](img/Username%20paso%207.jpeg)
+ ![Paso 6](img/Username%20paso%207.jpeg)
 
 ## Paso 7 
 
