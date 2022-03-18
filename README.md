@@ -46,7 +46,7 @@ Una vez ya cargado el archivo iso se inicia la maquina virtual para proceder a i
 
 Ya ejecutando el archivo iso dentro de la interfaz de la maquina virtual se selecciona el idioma de preferencia tanto del escritorio como del teclado para proceder a elegir el tipo de particiones en el disco 
 
-![Paso 6](img/Particiones%20pas0%206.jpeg)
+![Paso 6](img/usernamePasp7.jpegg)
 
 ## Paso 7 
 
