@@ -38,10 +38,23 @@ aqui podemos observar cada configuracion anterior que hemos realizado y procedem
 
 ## Paso 5
 
-una vez ya cargado el archivo iso se inicia la maquina virtual para proceder a instalar el LinxMint 
+Una vez ya cargado el archivo iso se inicia la maquina virtual para proceder a instalar el LinxMint 
 
 ![Paso 5](img/Escritorio%20paso%205.jpeg)
 
+## Paso 6
 
+Ya ejecutando el archivo iso dentro de la interfaz de la maquina virtual se selecciona el idioma de preferencia tanto del escritorio como del teclado para proceder a elegir el tipo de particiones en el disco 
 
+![Paso 6](img/Particiones%20pas0%206.jpeg)
+
+## Paso 7 
+
+Ya acabada la instalacion del sistema operativo procedemos a nombrar nuestro equipo, username y contraseña 
+
+![](Img/Username%20paso%207.jpeg)
+
+y este seria el ultimo paso con la instalcion ya terminado 
+
+![](img/Instalado.jpeg)
 
