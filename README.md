@@ -21,10 +21,10 @@ Luego de poner darle nombre al proyecto y selccionar la version del Sistema Oper
 
 En este paso hay que crear un disco duro virtual para archivar los datos de la maquina virtual, en este caso utilizare 30GB de mi disco duro para crear un disco dentro de la maquina virtual.
 
-![](Img/Tama%C3%B1o%20en%20disco%20duro.jpeg) 
+![Paso 3](Img/Tama%C3%B1o%20en%20disco%20duro.jpeg) 
 
 ## Paso 4
 
 Al finalizar el paso 3 donde se configura el espacio en disco duro ya se ha realizado la creacion de la maquina virtual 
 
-![](img/Interfaz%20pas%203.jpeg) aqui podemos observar cada configuracion anterior que hemos realizado 
+![Paso 4](img/Interfaz%20pas%203.jpeg) aqui podemos observar cada configuracion anterior que hemos realizado 
