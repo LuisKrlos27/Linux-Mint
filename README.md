@@ -13,9 +13,14 @@ Luego de instalar y ejecutar los programas hay que crear una nueva maquina virtu
 
 ![Paso 1](img/Inicio%20Paso%201.jpeg)
 
+
 ## Paso 2
 
-Luego de poner darle nombre al proyecto y selccionar la version del Sistema Operativo hay que darle espacio en memoria mayor (RAM) mayor a __1024MB__ ![Paso 2](img/Ram%20paso%202.jpeg) el tamaño en memoria depende del equipo en cual estas instalando el SO entre mas tamaño en memoria uses mejor es el funcionamiento de la maquina virtual.
+Luego de darle nombre al proyecto y selccionar la version del Sistema Operativo hay que darle espacio en memoria (RAM) mayor a __1024MB__ 
+
+![Paso 2](img/Ram%20paso%202.jpeg) 
+
+el tamaño en memoria depende del equipo en cual estas instalando el SO entre mas tamaño en memoria uses mejor es el funcionamiento de la maquina virtual.
 
 ## Paso 3
 
@@ -27,4 +32,9 @@ En este paso hay que crear un disco duro virtual para archivar los datos de la m
 
 Al finalizar el paso 3 donde se configura el espacio en disco duro ya se ha realizado la creacion de la maquina virtual 
 
-![Paso 4](img/Interfaz%20pas%203.jpeg) aqui podemos observar cada configuracion anterior que hemos realizado 
+![Paso 4](img/Interfaz%20pas%203.jpeg) 
+
+aqui podemos observar cada configuracion anterior que hemos realizado 
+
+
+
