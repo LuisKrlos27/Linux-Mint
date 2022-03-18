@@ -10,6 +10,6 @@
 - semestre Vl
 
 ### Profesor
-- [Gian Carlos Benavides](https://github.com/GiancarloBenavides) 
+- [Gian Carlos Benavides](https://giancarlobenavides.github.io/) 
 
 ![Logo Udenar](Img/descarga.jpeg)
