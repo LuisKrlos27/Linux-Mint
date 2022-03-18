@@ -1,5 +1,5 @@
 # Linux-Mint
-Tutorial de instalacion del SO LinuxMint paso a paso.
+Tutorial de instalacion del SO LinuxMint paso a paso en VirtualBox.
 
 ## Definicion: 
 
