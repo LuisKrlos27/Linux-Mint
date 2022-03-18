@@ -52,7 +52,7 @@ Ya ejecutando el archivo iso dentro de la interfaz de la maquina virtual se sele
 
 Ya acabada la instalacion del sistema operativo procedemos a nombrar nuestro equipo, username y contraseña 
 
-![](Img/Username%20paso%207.jpeg)
+![Paso 7](Img/Username%20paso%207.jpeg)
 
 y este seria el ultimo paso con la instalcion ya terminado 
 
