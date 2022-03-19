@@ -46,8 +46,3 @@ aqui podemos observar cada configuracion anterior que hemos realizado y procedem
 - Ya acabada la instalacion del sistema operativo procedemos a nombrar nuestro equipo, username y contraseña ![Username paso 7](Img/Username%20paso%207.jpeg) y este seria el ultimo paso con la instalcion ya terminado ![Paso 8](Img/Instalado.jpeg)
 
 
-# VIDAL CC 
-
-### Cancion 
-
-[Vidal](https://www.youtube.com/watch?v=SMItHPjhceE)
