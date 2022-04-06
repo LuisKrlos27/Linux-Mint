@@ -46,3 +46,33 @@ aqui podemos observar cada configuracion anterior que hemos realizado y procedem
 - Ya acabada la instalacion del sistema operativo procedemos a nombrar nuestro equipo, username y contraseña ![Username paso 7](Img/Username%20paso%207.jpeg) y este seria el ultimo paso con la instalcion ya terminado ![Paso 8](Img/Instalado.jpeg)
 
 
+# LABORATARIO
+
+## EMPRESA ASIGNADA
+
+- Linux Mint es una distribución de GNU/Linux comunitaria de origen franco-irlandesa basada en Ubuntu, y a su vez en Debian, que tiene por objetivo proveer "un sistema operativo moderno, elegante y cómodo que sea tanto poderoso como fácil de usar".1​ Linux Mint soporta varios formatos y códecs multimedia al incluir software propietario y empaquetado con una variedad de aplicaciones gratuitas y de código abierto.
+
+
+## PORQUE USAR LINUX MINT
+
+- Linux Mint es una distribución de Linux basada en Debian y Ubuntu que fue lanzada el 27 agosto de 2006. El objetivo de ésta es ser un sistema operativo enfocado a los usuarios, cómodo y fácil de utilizar. Y desde su lanzamiento hasta el momento, lo cumple a la perfección. 
+
+- Si te estás preguntando por qué deberías utilizar Linux Mint, estas son las principales razones que te harán  decantarte por este sistema operativo
+![razones](Img/razones-por-las-que-utilzar-linux.jpeg)
+## VENTAJAS
+
+- __Linux es gratis y libre:__ 
+Uno de los motivos por el que cada vez más usuarios están optando por Linux Mint es que es gratis. No tendrás que pagar nada por descargar e instalarte este sistema operativo en tu ordenador. Por si fuera poco, tendrás acceso sin coste alguno al soporte para actualizaciones y parches.
+Pero además de ser gratuito es libre. Linux Mint es un sistema operativo open source, es decir, de uso y desarrollo libre, para que lo utilices como quiera
+
+- __Linux mint es de facil acceso:__ 
+No importa de qué versión vengas de Windows (XP, Vista, 7, 8 o 10), no te será difícil pasar a Linux Mint, ya que te encontrarás todo (aplicaciones, archivos, iconos, bandeja del sistema y configuración) en su lugar habitual. Tu escritorio seguirá siendo el mismo y funcionará de la misma manera.
+
+## ESCRITORIO DE LINUX MINT 
+
+- El escritorio más moderno, innovador y completo. La versión más popular de Linux Mint es la edición Cinnamon. Cinnamon está desarrollado, principalmente, por y para Linux Mint. Es fluido, bonito y está lleno de características nuevas. ![escritorio](Img/Captura%20de%20pantalla%202022-04-06%20151156.jpeg.png)
+
+### VENATAJA DEL ESCRITORIO
+
+- __Linux Mint es 100%  personalizable:__
+Con Linux Mint podrás personalizar la apariencia de tu escritorio gracias a temas, temas de iconos y cursores, widgets y más. Tendrás el control absoluto de la personalización de tu ordenador.
