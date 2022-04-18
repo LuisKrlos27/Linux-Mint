@@ -88,3 +88,24 @@ Linux Mint usa como explorador de archivos Nemo, un fork de Nautilus. Nemo tiene
 
 - __Permite crear marcadores__: Para acceder de una manera muy rápida a los directorios que elijamos. Estos marcadores se pueden crear pulsando la combinación de teclas CONTROL + D estando situados dentro del directorio al cual queremos crear un acceso rápido o seleccionando Añadir Marcador en el menú de marcadores. Los marcadores se incorporan en ese mismo menú y nos permiten acceder rápidamente a carpetas.
 
+## SISTEMA DE PAQUETE DE DATOS
+
+Cuando vamos a instalar un programa en plataformas Windows, generalmente tenemos dos tipos de archivos:
+
+un archivo .exe (ejecutable), que suele llamar setup.exe o similar
+un archivo .msi (Microsoft Software Installer)
+
+Cuando trabajamos en entornos Linux, el concepto que manejamos es el del “paquete”, que es parecido, pero no exactamente igual. ¿Y que es un paquete? Pues se trata de un archivo binario (ejecutable) que contiene todo lo que necesitamos para instalar un software determinado. Dicho software puede ser un programa completo, una librería, una funcionalidad añadida a otro programa, un driver, etc.
+
+El paquete es, por tanto, la unidad mínima de instalación de software en un sistema Linux.
+
+En algunos casos, estos paquetes contienen absolutamente todo lo necesario para funcionar por si mismo, pero e otros casos dependen de otros paquetes para funcionar correctamente. Sobre dependencias, hablaremos más adelante.
+
+[Debian:](https://www.debian.org/index.es.html) distribución famosa por su ortodoxia estricta dentro del mundo del software libre, distribuye sus paquetes en el formato .deb
+
+[Red Hat:](https://www.redhat.com/es) primera gran distribución empresarial y recientemente adquirida por el gigante IBM, distribuye sus paquetes en formato .rpm
+
+## MODELO DE LANZAMIENTO DE LINUX MINT
+El 29 de junio de 2018, Linux Mint 19 "Tara" Cinnamon fue lanzado. Ya para el 8 de julio de 2021, fue lanzado su más reciente versión Linux Mint 20.2 "Uma". Contando con los 3 entornos de escritorios predeterminados: MATE en su versión 1.24, Xfce en la versión 4.16 y Cinnamon versionada en 5.0.
+![MODELO](http://linux.ciberaula.com/articulo/assets/img/linux_mint/instalacion_linux_Mint.jpg)
+
